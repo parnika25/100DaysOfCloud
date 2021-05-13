@@ -10,20 +10,13 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## [Parnika]'s Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Hey, I'm Parnika Katiyar.
 
-[✍️ Introduce yourself]
+I'm starting this challenge as I want to go deep inside the world of cloud.
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [My LinkedIn account](https://www.linkedin.com/in/parnika-katiyar-10475a197)
 
 ## Stepping out the door
 
